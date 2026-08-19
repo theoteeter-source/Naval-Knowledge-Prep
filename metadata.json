@@ -1,0 +1,6 @@
+{
+  "name": "Naval Knowledge Prep",
+  "description": "NROTC midshipmen study and gouge preparation tool covering rank structure, passage memorization, nautical terms, procedures, naval history, and physical fitness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
